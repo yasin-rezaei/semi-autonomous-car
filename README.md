@@ -27,5 +27,5 @@ This project uses **Raspberry Pi + Arduino** to build a semi-autonomous car that
 ## 🧩 Installation
 ```bash
 git clone https://github.com/yasin-rezaei/semi-autonomous-car.git
-cd LineFollower-RPi-Arduino
+cd semi-automomous-car
 pip install -r requirements.txt
