@@ -6,7 +6,11 @@ This project uses **Raspberry Pi + Arduino** to build a semi-autonomous car that
 - Control motors through serial communication
 
 ---
+## 🎥 Project Demo
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=1mzl2Oo8Ncw&list=RDRpc8pTvNHwA&index=5))
+
+---
 ## 🧠 Features
 - **Real-time camera stream** from Raspberry Pi
 - **PID control** for smoother line following
